@@ -1,0 +1,9 @@
+{
+  "site_name": "My Digital Shop",
+  "usdt_address": "PASTE_YOUR_BINANCE_USDT_TRC20_DEPOSIT_ADDRESS",
+  "price_usd": 5,
+  "start_runway_days": 30,
+  "days_added_per_dollar": 0.2,
+  "model": "gemini-2.0-flash",
+  "payoneer_link": ""
+}
